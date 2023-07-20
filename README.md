@@ -2,10 +2,10 @@
 // Fundamental concepts of NestJS are used to create this project. <br>
 // Can be extended to make complex Logics<br>
 
-Features: 
--> Can get all Ninjas
--> Can delete a Ninja
--> Can Create a Ninja
--> Can update a Ninja
--> Can implement authentication while creating ninja
--> Can validate using guards
+Features: <br>
+-> Can get all Ninjas <br>
+-> Can delete a Ninja <br>
+-> Can Create a Ninja <br>
+-> Can update a Ninja <br>
+-> Can implement authentication while creating ninja <br>
+-> Can validate using guards <br>
