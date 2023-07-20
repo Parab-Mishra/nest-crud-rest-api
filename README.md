@@ -1,6 +1,6 @@
-// This project is simple CRUD Application build with NestJS
-// Fundamental concepts of NestJS are used to create this project.
-// Can be extended to make complex Logics
+// This project is simple CRUD Application build with NestJS<br>
+// Fundamental concepts of NestJS are used to create this project. <br>
+// Can be extended to make complex Logics<br>
 
 Features: 
 -> Can get all Ninjas
